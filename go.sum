@@ -2,3 +2,7 @@ github.com/goccy/go-json v0.7.3 h1:Pznres7bC8RRKT9yOn3EZ7fK+8Kle6K9rW2U33QlXZI=
 github.com/goccy/go-json v0.7.3/go.mod h1:6MelG93GURQebXPDq3khkgXZkazVtN9CRI+MGFi0w8I=
 github.com/goccy/go-json v0.9.4 h1:L8MLKG2mvVXiQu07qB6hmfqeSYQdOnqPot2GhsIwIaI=
 github.com/goccy/go-json v0.9.4/go.mod h1:6MelG93GURQebXPDq3khkgXZkazVtN9CRI+MGFi0w8I=
+github.com/goccy/go-json v0.9.5 h1:ooSMW526ZjK+EaL5elrSyN2EzIfi/3V0m4+HJEDYLik=
+github.com/goccy/go-json v0.9.5/go.mod h1:6MelG93GURQebXPDq3khkgXZkazVtN9CRI+MGFi0w8I=
+github.com/goccy/go-json v0.9.6-0.20220319151427-03950e7b0bf7 h1:SBEEd4O7jS2VvqlfG/Bw3NYEDDgrGKCEXPrHvPM4nZc=
+github.com/goccy/go-json v0.9.6-0.20220319151427-03950e7b0bf7/go.mod h1:6MelG93GURQebXPDq3khkgXZkazVtN9CRI+MGFi0w8I=
